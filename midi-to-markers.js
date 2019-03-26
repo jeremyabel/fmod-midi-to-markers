@@ -206,8 +206,7 @@ studio.menu.addMenuItem({
             	{ 
             		widgetType: studio.ui.widgetType.PathLineEdit,
             		widgetId: "m_midiFilePath",
-            		// text: "*.mid",
-            		text: "D:/Downloads/Citywalk music midi/Citywalk music midi/Citywalk2.mid",
+            		text: "*.mid",
             		pathType: studio.ui.pathType.OpenFile
             	},
 
